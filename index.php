@@ -21,7 +21,7 @@
 			<fieldset>
 				<legend><h1 class="form">Personal Details</h1></legend>
 				<div class="fdetails">
-					<label for="Name"> Full-Name:* </label><input  type="text" id="name" name="name" placeholder="Murtada Rashid"  /><br/><br/><br/>
+					<label for="Name"> Full-Name:* </label><input  type="text" id="name" name="name" placeholder="User Name "  /><br/><br/><br/>
 					<label for="fdob"> Date Of Birth:* </label><input id="fdob" name="fdob" type="date" /><br/><br/><br/>
 
 
